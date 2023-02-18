@@ -1,0 +1,11 @@
+name: shiny_test
+title:
+username:
+account: merigo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8351412
+bundleId: 6861637
+url: https://merigo.shinyapps.io/shiny_test/
+when: 1676741751.19552
+lastSyncTime: 1676741751.19553
